@@ -1,22 +1,23 @@
+from contextlib import asynccontextmanager
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from routers import story, job
 from core.config import setting
 from db.database import create_tables
 from models import story as story_models, job as job_models
-from db.database import create_tables
 
-create_tables()
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    create_tables()
+    yield
 
 app = FastAPI(
-   
-   title = "Choose Your Own Adventure Game API",
-   descrption = "api to generate cool stories",
-   version = "0.1.0",
-   docs_url = "/docs",
-   redoc_url = "/redoc"
-
-
+    title="Choose Your Own Adventure Game API",
+    description="api to generate cool stories",
+    version="0.1.0",
+    docs_url="/docs",
+    redoc_url="/redoc",
+    lifespan=lifespan
 )
 
 app.add_middleware(
@@ -27,16 +28,11 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-app.include_router(story.router,prefix=setting.API_PREFIX)
+app.include_router(story.router, prefix=setting.API_PREFIX)
 app.include_router(job.router, prefix=setting.API_PREFIX)
-
-@app.on_event("startup")
-def startup_event():
-    create_tables()
-
 
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run(app, port=8000,reload = True)
+    uvicorn.run("main:app", port=8000, reload=True)
 
 
