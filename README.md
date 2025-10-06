@@ -123,16 +123,6 @@ DEBUG=True
 ALLOWED_ORIGINS=http://localhost:3000,http://localhost:5173
 GROQ_API_KEY=your_groq_api_key_here
 ```
-
-## 📱 Screenshots
-
-### Main Interface
-![Main Interface](https://via.placeholder.com/800x400/667eea/ffffff?text=Epic+Adventure+Generator)
-
-### Story Generation
-![Story Generation](https://via.placeholder.com/800x400/764ba2/ffffff?text=AI+Story+Creation)
-
-### Interactive Gameplay
 ![Interactive Gameplay](https://via.placeholder.com/800x400/48cae4/ffffff?text=Choose+Your+Path)
 
 ## 📄 License
