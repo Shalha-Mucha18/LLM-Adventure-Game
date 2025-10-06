@@ -169,20 +169,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🐛 Troubleshooting
 
-### Common Issues
-
-**API Key Error (401)**
-```bash
-# Verify your Groq API key
-python test_groq.py
-```
-
-**Database Connection Error**
-```bash
-# Check database path in .env
-DATABASE_URL=sqlite:///./database.db
-```
-
 **Frontend Connection Issues**
 ```bash
 # Verify API URL in fronted/src/util.js
