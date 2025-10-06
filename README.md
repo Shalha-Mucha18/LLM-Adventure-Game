@@ -1,4 +1,4 @@
-# 🏰 Epic Adventure Story Generator 🐉
+# 🏰 Adventure Story Generator 🐉
 
 An AI-powered interactive story generator that creates unique choose-your-own-adventure stories with beautiful animations and customizable gameplay options.
 
