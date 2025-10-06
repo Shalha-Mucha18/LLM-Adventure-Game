@@ -123,8 +123,6 @@ DEBUG=True
 ALLOWED_ORIGINS=http://localhost:3000,http://localhost:5173
 GROQ_API_KEY=your_groq_api_key_here
 ```
-![Interactive Gameplay](https://via.placeholder.com/800x400/48cae4/ffffff?text=Choose+Your+Path)
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
