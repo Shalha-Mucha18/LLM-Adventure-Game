@@ -132,11 +132,6 @@ ALLOWED_ORIGINS=http://localhost:3000,http://localhost:5173
 GROQ_API_KEY=your_groq_api_key_here
 ```
 
-### Groq Models Supported
-- `llama-3.1-8b-instant` (default)
-- `llama-3.1-70b-versatile`
-- `mixtral-8x7b-32768`
-
 ## 📱 Screenshots
 
 ### Main Interface
