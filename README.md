@@ -188,15 +188,3 @@ DATABASE_URL=sqlite:///./database.db
 # Verify API URL in fronted/src/util.js
 export const API_BASE_URL = "http://localhost:8000/api"
 ```
-
-## 📞 Support
-
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/adventure-story-generator/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/adventure-story-generator/discussions)
-- 📧 **Email**: your.email@example.com
-
----
-
-**Made with ❤️ and lots of ☕ by [Your Name]**
-
-*Create infinite adventures, one choice at a time!* 🌟
