@@ -155,17 +155,3 @@ GROQ_API_KEY=your_groq_api_key_here
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- **Groq** for providing fast AI inference
-- **FastAPI** for the excellent web framework
-- **React** community for amazing tools
-- **Adventure game** enthusiasts for inspiration
-
-## 🐛 Troubleshooting
-
-**Frontend Connection Issues**
-```bash
-# Verify API URL in fronted/src/util.js
-export const API_BASE_URL = "http://localhost:8000/api"
-```
