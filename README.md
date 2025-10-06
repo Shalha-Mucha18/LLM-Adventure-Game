@@ -81,14 +81,6 @@ fronted/
 └── public/           # Static assets
 ```
 
-## 🎯 API Endpoints
-
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| `POST` | `/api/story/create` | Generate new adventure story |
-| `GET` | `/api/job/{job_id}` | Check story generation status |
-| `GET` | `/api/story/{story_id}/completed` | Get complete story with all paths |
-
 ## 🎨 Theme Examples
 
 - 🏴☠️ **Pirates**: Treasure hunts and sea battles
