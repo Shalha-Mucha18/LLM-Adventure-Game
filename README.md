@@ -7,7 +7,7 @@ An AI-powered interactive story generator that creates unique choose-your-own-ad
 ## A Short Demo
 
 [![Watch the video]
-https://github.com/Shalha-Mucha18/LLM-Adventure-Game/blob/main/Screencast%20from%202025-10-10%2023-41-16.webm
+(https://github.com/Shalha-Mucha18/LLM-Adventure-Game/blob/main/Screencast%20from%202025-10-10%2023-41-16.webm)
 
 
 
