@@ -4,6 +4,10 @@ An AI-powered interactive story generator that creates unique choose-your-own-ad
 
 ![Adventure Story Generator](https://img.shields.io/badge/Adventure-Story%20Generator-brightgreen) ![FastAPI](https://img.shields.io/badge/FastAPI-0.104.1-blue) ![React](https://img.shields.io/badge/React-18.2.0-61dafb) ![AI](https://img.shields.io/badge/AI-Groq%20LLaMA-orange)
 
+## A Short Demo
+
+
+
 ## 🌟 Features
 
 ### 🎮 Interactive Storytelling
