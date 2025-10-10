@@ -24,12 +24,6 @@ An AI-powered interactive story generator that creates unique choose-your-own-ad
 - **📜 Story Length**: Quick adventures → Epic journeys
 - **⚙️ Advanced Settings**: Fine-tune your experience
 
-### 🌈 Beautiful UI/UX
-- **Colorful Animations**: Gradient backgrounds and smooth transitions
-- **Adventure Theme**: Emojis and medieval/fantasy styling
-- **Mobile Responsive**: Works on all devices
-- **Interactive Elements**: Hover effects and loading animations
-
 ## 🚀 Quick Start
 
 ### Prerequisites
