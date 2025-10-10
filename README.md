@@ -3,13 +3,9 @@
 An AI-powered interactive story generator that creates unique choose-your-own-adventure stories with beautiful animations and customizable gameplay options.
 
 ![Adventure Story Generator](https://img.shields.io/badge/Adventure-Story%20Generator-brightgreen) ![FastAPI](https://img.shields.io/badge/FastAPI-0.104.1-blue) ![React](https://img.shields.io/badge/React-18.2.0-61dafb) ![AI](https://img.shields.io/badge/AI-Groq%20LLaMA-orange)
-
 ## A Short Demo
 
-<video width="640" height="360" controls>
-  <source src="https://drive.google.com/file/d/197imiVe1lxPDsTUpNQ8YwbaPvNrnbWRD/view?usp=sharing" type="video/webm">
-  Your browser does not support the video tag.
-</video>
+[🎬 Watch the demo video on Google Drive](https://drive.google.com/file/d/197imiVe1lxPDsTUpNQ8YwbaPvNrnbWRD/view?usp=sharing)
 
 
 ## 🌟 Features
