@@ -1,6 +1,6 @@
 # 🏰 Adventure Story Generator 🐉
 
-An AI-powered interactive story generator that creates unique choose-your-own-adventure stories with beautiful animations and customizable gameplay options.
+Adventure Story Generator is a project designed as an interactive adventure game powered by Large Language Models (LLMs). This game enables users to immerse themselves in dynamic, AI-driven storytelling, where every decision impacts the narrative. Built with a modular architecture, the project supports flexible storylines, seamless integration of new AI models, and real-time interaction between the player and the game world.
 
 ![Adventure Story Generator](https://img.shields.io/badge/Adventure-Story%20Generator-brightgreen) ![FastAPI](https://img.shields.io/badge/FastAPI-0.104.1-blue) ![React](https://img.shields.io/badge/React-18.2.0-61dafb) ![AI](https://img.shields.io/badge/AI-Groq%20LLaMA-orange)
 
